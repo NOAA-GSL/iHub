@@ -1,6 +1,6 @@
 # Innovation Hub
 
-## Upcming
+## Upcoming
 #### 2024/12/05 
 iHub Lightning Talks &emsp;[Signup Form](https://forms.gle/qv6RW3Fi41K2cWeH6)
 
