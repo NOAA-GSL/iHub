@@ -1,6 +1,6 @@
 # Innovation Hub
 ## Upcoming events:
-#### TBD iHub Lightning Talks &emsp;[Announcement;](https://docs.google.com/document/d/1oHJTo2kv85TX3mreqH2JR5DT9b9sMALQhYGMVko983s/edit?tab=t.0)&emsp;[Signup here](https://forms.gle/qv6RW3Fi41K2cWeH6)
+#### date TBD: iHub Lightning Talks &emsp;[Announcement;](https://docs.google.com/document/d/1oHJTo2kv85TX3mreqH2JR5DT9b9sMALQhYGMVko983s/edit?tab=t.0)&emsp;[Signup here](https://forms.gle/qv6RW3Fi41K2cWeH6)
 
 ## Past events:
 ### 1. Innovation Forum
