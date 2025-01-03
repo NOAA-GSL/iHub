@@ -1,4 +1,4 @@
-# Innovation Hub
+# ![](iHub_logo.jpg)&emsp;&emsp;Innovation Hub&emsp;&emsp;![](iHub_logo.jpg)
 - Creativity, collaboration, and experimentation    
 - drive innovative thinking and creative solutions to enhance GSL's competitiveness, foster scientific growth, and bring value to our customers
 
