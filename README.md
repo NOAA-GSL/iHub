@@ -3,11 +3,9 @@
 - drive innovative thinking and creative solutions to enhance GSL's competitiveness, foster scientific growth, and bring value to our customers
 
 ## Upcoming events:
-#### 1. GSL EXPO
-- date: Tentatively February 26th (Wednesday) 1-3:00 pm
-- in-person with an online option for remote employees (stay tuned)
-#### 2. iHub Lightning Talks
-- date TBD
+#### * GSL EXPO on Feb. 26th 1-3pm (Tentatively)
+&emsp;&emsp; in-person with an online option for remote employees (stay tuned)
+#### * iHub Lightning Talks on date TBD
 
 ## Past events:
 ### 1. Innovation Forum
