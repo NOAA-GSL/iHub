@@ -3,8 +3,11 @@
 - drive innovative thinking and creative solutions to enhance GSL's competitiveness, foster scientific growth, and bring value to our customers
 
 ## Upcoming events:
-#### date: Tentative February 26th (Wednesday) 1-3:00 pm, &emsp; GSL EXPO, &emsp; in person with an online option for remote employees (stay tuned)
-#### date TBD: iHub Lightning Talks
+#### 1. GSL EXPO
+- date: Tentatively February 26th (Wednesday) 1-3:00 pm
+- in-person with an online option for remote employees (stay tuned)
+#### 2. iHub Lightning Talks
+- date TBD
 
 ## Past events:
 ### 1. Innovation Forum
@@ -14,7 +17,4 @@ Forecast testbed experiment discussion &emsp;[slides](https://docs.google.com/pr
 ### 2. Proposal Clinic
 #### 2.1 2024/11/08 Matthew Mahalik
 An Introduction to NOAA's Weather Program Office and Applying to a NOAA NOFO &emsp;[slides](https://drive.google.com/file/d/1EekK7iqyNUIlM5lR0nSPPRglt5w8RXlP)&emsp;[Q&A_NOTES](https://docs.google.com/document/d/1tYU-1ldfo1wBXjx_CdW2tQqOO0RcioPHDpogqme9Qms/edit?usp=sharing)
-
-### 3. GSL EXPO
-Annual GSL poster EXPO
 
