@@ -1,6 +1,9 @@
 # Innovation Hub
+- Creativity, collaboration, and experimentation    
+- drive innovative thinking and creative solutions to enhance GSL's competitiveness, foster scientific growth, and bring value to our customers
+
 ## Upcoming events:
-#### date: late February, &emsp; GSL EXPO, &emsp; in person with an online option for remote employees (stay tuned)
+#### date: Tentative February 26th (Wednesday) 1-3:00 pm, &emsp; GSL EXPO, &emsp; in person with an online option for remote employees (stay tuned)
 #### date TBD: iHub Lightning Talks
 
 ## Past events:
