@@ -23,7 +23,7 @@ Any type of poster is welcome! Whether it's a recent AMS or AGU poster, an impor
 We will collaborate with the GSL poster print service to ensure your posters are printed on time.
 
 ### 5. How is the poster location numbered?
-Please refer to the figure: [link](https://raw.githubusercontent.com/NOAA-GSL/iHub/refs/heads/main/expo/expo-2B.jpg)
+Please refer to the figure: [link](https://drive.google.com/file/d/12P-DeA4cAeVacrAQqoYN35tc04kbEEuL/view?usp=drive_link)
 
 ### 6. How to upload my digital poster?
 You can upload your poster at this shared Google drive: [EXPO_2025](https://drive.google.com/drive/u/5/folders/1gKJDNSQh_-9q0qw_iCNA28-R-DhMzImq)
