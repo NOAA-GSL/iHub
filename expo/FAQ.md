@@ -38,7 +38,7 @@ where XXX is the poster number and will be assigned by the EXPO committee.
 Yes, all attendees—whether attending in person or remotely—are required to upload a digital copy of their posters. This ensures that remote employees can access and view your poster.
 
 ### 8. How to comment on a digital poster?
-You can comment directly on the poster's PDF file on the webpage. The poster author will receive automatic notifications about your comments. Click [this link](https://drive.google.com/file/d/1lpzmjV7QmNINx_f0A8OBvSQ-TsXo_gVt/view?usp=drive_link) for an example.
+You can comment directly on the poster's PDF file on the webpage. The poster author will receive automatic notifications about your comments. Click [this link](https://drive.google.com/file/d/1lpzmjV7QmNINx_f0A8OBvSQ-TsXo_gVt/view?usp=drive_link) for an example (scroll down to the bottom to see all available comments).
 
 ### 9. Who should I contact if I have any further questions?
 For any further questions, please contact: iHub.gsl at noaa.gov
