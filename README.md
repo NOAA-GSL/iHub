@@ -3,9 +3,8 @@
 - drive innovative thinking and creative solutions to enhance GSL's competitiveness, foster scientific growth, and bring value to our customers
 
 ## Upcoming events:
-#### * GSL EXPO on Feb. 26th 1-3:30 pm (Tentatively)
-&emsp;&emsp; in-person with an online option for remote employees (stay tuned)
-#### * iHub Lightning Talks on date TBD
+#### * GSL EXPO on Feb. 26th 1-3:30 pm
+-more information can be found at [this FAQ](https://github.com/NOAA-GSL/iHub/blob/main/expo/FAQ.md).
 
 ## Past events:
 ### 1. Innovation Forum
