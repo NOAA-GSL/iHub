@@ -13,10 +13,10 @@ Please visit [this link](https://docs.google.com/spreadsheets/d/1l51Ay6th4UKMZnv
 
 **NOTE**:
 - (1). It is better to register as soon as possible since currently we can only accommodate around 65 in-person posters (with a potential overflow of about 10 more). Early registration will help us plan accordingly.
-- (2) You don’t need to have a poster ready at the time of registration. Simply provide preliminary information when registering. You can update details and upload a digital copy later.
+- (2) You don’t need to have a poster ready at the time of registration. Simply provide preliminary information when registering. You can update the details and upload a digital copy later.
 - (3). One poster per person
 - (4). Poster locations in the 2B area are numbered. You may walk around, check the poster labels near your office, and request a nearby poster number. We will consider your request but cannot guarantee it.
-- (5) Virtual posters do not need to fill in columns C, D, G, H and I of the registration form.
+- (5) Virtual posters do not need to fill in columns C, D, G, H, and I of the registration form.
 
 ### 5. I want to attend the EXPO but will not be presenting a poster. Do I still need to register?
 No. Only folks who are planning on presenting a poster need to register. Anyone is welcome to participate as a poster viewer without registering.
@@ -33,14 +33,14 @@ We will collaborate with the GSL poster print service to ensure your posters are
 Please refer to the figure: [link](https://drive.google.com/file/d/12P-DeA4cAeVacrAQqoYN35tc04kbEEuL/view?usp=drive_link)
 
 ### 9. How do I upload my digital poster?
-You can upload your poster at this shared Google drive: [EXPO_2025](https://drive.google.com/drive/u/5/folders/1gKJDNSQh_-9q0qw_iCNA28-R-DhMzImq)
+You can upload your poster at this shared Google Drive: [EXPO_2025](https://drive.google.com/drive/u/5/folders/1gKJDNSQh_-9q0qw_iCNA28-R-DhMzImq)
  
 Note: 
 - (1). Only PDF format is accepted. Please convert your PPTX file into PDF before uploading.
 - (2). Name your poster using the following convention:   
         First_Last_short_title.pdf
   
-### 10. I will attend the EXPO in-person. Do I need to upload a digital poster?
+### 10. I will attend the EXPO in person. Do I need to upload a digital poster?
 Yes, all attendees—whether attending in person or remotely—are required to upload a digital copy of their posters. This ensures that remote employees can access and view your poster.
 
 ### 11. I will attend the EXPO remotely. How do I interact with other attendees?
@@ -48,8 +48,8 @@ Yes, all attendees—whether attending in person or remotely—are required to u
    
 (2). For remote attendees without presenting a poster, each can (a) join the asynchronous interaction through comments/replies as demonstrated in 12; (b) join in the remote poster's individual Google Meet; (c) join the conference room for quick oral presentations.
 
-### 12. How to comment on a digital poster?
-You can comment directly on the poster's PDF file on the webpage. The poster author will receive automatic notifications about your comments. Click [this link](https://drive.google.com/file/d/1lpzmjV7QmNINx_f0A8OBvSQ-TsXo_gVt/view?usp=drive_link) for an example (scroll down to the bottom to see all available comments).
+### 12. How do I comment on a digital poster?
+You can comment directly on the poster's PDF file inside the shared Goolge Drive. The poster author will receive automatic notifications about your comments. Click [this link](https://drive.google.com/file/d/1lpzmjV7QmNINx_f0A8OBvSQ-TsXo_gVt/view?usp=drive_link) for an example (scroll down to the bottom to see all available comments).
 
 ### 13. Who should I contact if I have any further questions?
 For any further questions, please contact: iHub.gsl at noaa.gov
