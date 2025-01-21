@@ -45,13 +45,13 @@ Yes, all attendees—whether attending in person or remotely—are required to u
 
 ### 11. I will attend the EXPO remotely. How do I interact with other attendees?
 ##### (1) For remote poster presenters:
-(a) Upload your digital poster to the shared Google Drive for asynchronous interactions via comments and replies (see details in Question 12).
-(b) Schedule a personal Google Meet session from 1:00–3:30 PM, and we will share your meeting link with all attendees.
-(c) Sign up for a 15–20 minute time slot to give a quick oral presentation in one of the 2B conference rooms. We will contact remote presenters after registration closes to confirm arrangements.
+- (a) Upload your digital poster to the shared Google Drive for asynchronous interactions via comments and replies (see details in Question 12).
+- (b) Schedule a personal Google Meet session from 1:00–3:30 PM, and we will share your meeting link with all attendees.
+- (c) Sign up for a 15–20 minute time slot to give a quick oral presentation in one of the 2B conference rooms. We will contact remote presenters after registration closes to confirm arrangements.
 ##### (2) For remote attendees not presenting a poster:
-(a) Participate in asynchronous discussions by leaving comments and replies on digital posters in the shared Google Drive.
-(b) Join individual Google Meet sessions hosted by remote poster presenters.
-(c) Attend the quick oral presentation sessions in the 2B conference rooms.
+- (a) Participate in asynchronous discussions by leaving comments and replies on digital posters in the shared Google Drive.
+- (b) Join individual Google Meet sessions hosted by remote poster presenters.
+- (c) Attend the quick oral presentation sessions in the 2B conference rooms.
 
 ### 12. How do I comment on a digital poster?
 You can comment directly on the poster's PDF file inside the shared Goolge Drive. The poster author will receive automatic notifications about your comments. Click [this link](https://drive.google.com/file/d/1lpzmjV7QmNINx_f0A8OBvSQ-TsXo_gVt/view?usp=drive_link) for an example (scroll down to the bottom to see all available comments).
