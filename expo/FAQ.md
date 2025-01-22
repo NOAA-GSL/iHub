@@ -33,7 +33,8 @@ We will collaborate with the GSL poster print service to ensure your posters are
 Please refer to the figure: [link](https://drive.google.com/file/d/12P-DeA4cAeVacrAQqoYN35tc04kbEEuL/view?usp=drive_link)
 
 ### 9. What will happen to the current posters in the 2B area?
-All current posters in the 2B area have been photographed and archived [here](https://drive.google.com/drive/u/1/folders/1PlYS-eUN6G8YYB6IpwqRpwQ0PKHU-qiF) for reference. Some posters will be retired while some will restored after the EXPO. If you have an old poster and would like to retire it, you can support the EXPO preparations by taking it down before the event. After the EXPO, the Evergreen Leadership Team will coordinate a poster rotation initiative.
+All current posters in the 2B area have been photographed and archived [here](https://drive.google.com/drive/u/1/folders/1PlYS-eUN6G8YYB6IpwqRpwQ0PKHU-qiF) for reference. Some posters will be retired while some will restored after the EXPO. If you have an old poster and would like to retire it, you can support the EXPO preparations by taking it down before the event.    
+Regarding which posters will be displayed after the Expo, the Evergreen Leadership team is working with SLT to develop a policy on this and EGLT will update us later.
 
 ### 10. How do I upload my digital poster?
 You can upload your poster at this shared Google Drive: [EXPO_2025](https://drive.google.com/drive/u/5/folders/1gKJDNSQh_-9q0qw_iCNA28-R-DhMzImq)
