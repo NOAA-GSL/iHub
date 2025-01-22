@@ -56,5 +56,9 @@ Yes, all attendees—whether attending in person or remotely—are required to u
 ### 12. How do I comment on a digital poster?
 You can comment directly on the poster's PDF file inside the shared Goolge Drive. The poster author will receive automatic notifications about your comments. Click [this link](https://drive.google.com/file/d/1lpzmjV7QmNINx_f0A8OBvSQ-TsXo_gVt/view?usp=drive_link) for an example (scroll down to the bottom to see all available comments).
 
-### 13. Who should I contact if I have any further questions?
-For any further questions, please contact: iHub.gsl at noaa.gov
+### 13. Are there any other things we should know?
+If you are able, please consider bringing a store-bought or homemade snack to share with your GSL colleagues during the GSL EXPO. Snack sign-up at [this link](https://docs.google.com/spreadsheets/d/1rSems1hLkTqC1HFn20SWCqXl5pEaW4I9jjdmwb9pilE/edit?gid=0#gid=0).
+
+### 14. Who should I contact if I have any further questions?
+For any further questions, please contact: iHub.gsl at noaa.gov or post them at the "expo" channel in the "OAR-GSL" slack space.
+
