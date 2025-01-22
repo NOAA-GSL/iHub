@@ -32,7 +32,10 @@ We will collaborate with the GSL poster print service to ensure your posters are
 ### 8. How is the poster location numbered?
 Please refer to the figure: [link](https://drive.google.com/file/d/12P-DeA4cAeVacrAQqoYN35tc04kbEEuL/view?usp=drive_link)
 
-### 9. How do I upload my digital poster?
+### 9. 9. What will happen to the current posters in the 2B area?
+All current posters in the 2B area have been photographed and archived [here](https://drive.google.com/drive/u/1/folders/1PlYS-eUN6G8YYB6IpwqRpwQ0PKHU-qiF) for reference. Some posters will be retired while some will restored after the EXPO. If you have an old poster and would like to retire it, you can support the EXPO preparations by taking it down before the event. After the EXPO, the Evergreen Leadership Team will coordinate a poster rotation initiative.
+
+### 10. How do I upload my digital poster?
 You can upload your poster at this shared Google Drive: [EXPO_2025](https://drive.google.com/drive/u/5/folders/1gKJDNSQh_-9q0qw_iCNA28-R-DhMzImq)
  
 Note: 
@@ -40,10 +43,10 @@ Note:
 - (2). Name your poster using the following convention:   
         First_Last_short_title.pdf
   
-### 10. I will attend the EXPO in person. Do I need to upload a digital poster?
+### 11. I will attend the EXPO in person. Do I need to upload a digital poster?
 Yes, all attendees—whether attending in person or remotely—are required to upload a digital copy of their posters. This ensures that remote employees can access and view your poster.
 
-### 11. I will attend the EXPO remotely. How do I interact with other attendees?
+### 12. I will attend the EXPO remotely. How do I interact with other attendees?
 ##### (1) For remote poster presenters:
 - (a) Upload your digital poster to the shared Google Drive for asynchronous interactions via comments and replies (see details in Question 12).
 - (b) Schedule a personal Google Meet session from 1:00–3:30 PM, and we will share your meeting link with all attendees.
@@ -53,12 +56,12 @@ Yes, all attendees—whether attending in person or remotely—are required to u
 - (b) Join individual Google Meet sessions hosted by remote poster presenters.
 - (c) Attend the quick oral presentation sessions in the 2B conference rooms.
 
-### 12. How do I comment on a digital poster?
+### 13. How do I comment on a digital poster?
 You can comment directly on the poster's PDF file inside the shared Goolge Drive. The poster author will receive automatic notifications about your comments. Click [this link](https://drive.google.com/file/d/1lpzmjV7QmNINx_f0A8OBvSQ-TsXo_gVt/view?usp=drive_link) for an example (scroll down to the bottom to see all available comments).
 
-### 13. Are there any other things we should know?
+### 14. Are there any other things we should know?
 If you are able, please consider bringing a store-bought or homemade snack to share with your GSL colleagues during the GSL EXPO. Snack sign-up at [this link](https://docs.google.com/spreadsheets/d/1rSems1hLkTqC1HFn20SWCqXl5pEaW4I9jjdmwb9pilE/edit?gid=0#gid=0).
 
-### 14. Who should I contact if I have any further questions?
+### 15. Who should I contact if I have any further questions?
 For any further questions, please contact: iHub.gsl at noaa.gov or post them at the "expo" channel in the "OAR-GSL" slack space.
 
