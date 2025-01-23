@@ -30,7 +30,7 @@ Any type of poster is welcome! Whether it's a recent AMS or AGU poster, an impor
 We will collaborate with the GSL poster print service to ensure your posters are printed on time.
 
 ### 8. How is the poster location numbered?
-Please refer to the figure: [link](https://drive.google.com/file/d/12P-DeA4cAeVacrAQqoYN35tc04kbEEuL/view?usp=drive_link)
+Please refer to the figure: [link](https://drive.google.com/file/d/1q8DcAJOyOOlBn7PVtCC_H5qvFglGY_1r/view?usp=drive_link)
 
 ### 9. What will happen to the current posters in the 2B area?
 All current posters in the 2B area have been photographed and archived [here](https://drive.google.com/drive/u/1/folders/1PlYS-eUN6G8YYB6IpwqRpwQ0PKHU-qiF) for reference. Some posters will be retired while some will restored after the EXPO. If you have an old poster and would like to retire it, you can support the EXPO preparations by taking it down before the event.    
