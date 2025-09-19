@@ -1,6 +1,6 @@
 # ![](iHub_logo.jpg)&emsp;&emsp;Innovation Hub&emsp;&emsp;![](iHub_logo.jpg)
 ## Upcoming events:
-## *Feb. 26th 1-3:30 pm,&emsp;GSL EXPO,&emsp;[FAQ](https://github.com/NOAA-GSL/iHub/blob/main/expo/FAQ.md).
+## Be on the lookout for lunch-and-learn sessions!
 
 <br>
 
@@ -12,6 +12,17 @@ Forecast testbed experiment discussion &emsp;[slides](https://docs.google.com/pr
 ### 2. Proposal Clinic
 #### 2.1 2024/11/08 Matthew Mahalik
 An Introduction to NOAA's Weather Program Office and Applying to a NOAA NOFO &emsp;[slides](https://drive.google.com/file/d/1EekK7iqyNUIlM5lR0nSPPRglt5w8RXlP)&emsp;[Q&A_NOTES](https://docs.google.com/document/d/1tYU-1ldfo1wBXjx_CdW2tQqOO0RcioPHDpogqme9Qms/edit?usp=sharing)
+
+### 3. GSL Expo
+#### 3.1 2025/2/26
+Poster session in the DSRC. &emsp;[FAQ](https://github.com/NOAA-GSL/iHub/blob/main/expo/FAQ.md).
+
+### 4. AI at GSL
+#### 4.1 2025/9/19 Renn Valo and Eric Hackathorn
+Discussion of various AI tools, initiatives, and projects at GSL. Resources used during the presentation:  
+[Current Projects on the AI Server](https://docs.google.com/document/d/1RyHsyYsdj76CbPTzFgA8qtVgpyTawCJurqtvRzMk3P0/edit?usp=sharing)  
+[Setting up a coding agent with VScode and GSL's local LLM](https://docs.google.com/document/d/1VCX4dlZsTcp6olt_mQTpQtswb2LGi7vS/edit?usp=sharing&ouid=109091531826775911331&rtpof=true&sd=true)  
+[Eric's presentation Zyra](https://docs.google.com/presentation/d/1hdB2qLgzdiHQUzB3u_Mv2gU1wdh8xbcWsOh-dXjz9ME/edit?usp=sharing)
 
 <br>
 <br>
