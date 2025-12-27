@@ -3,7 +3,9 @@
 The GSL EXPO is an annual lab-wide poster event designed to showcase recent scientific and non-scientific achievements, share innovative ideas, highlight new research and tools, and promote potential collaborations.
 
 ### 2. When and where will the GSL EXPO2025 be held?
-GSL EXPO 2026 will be held on Wednesday, March 4th, from 1:00 to 3:00 PM at the DSRC 2B Hallway area and online.
+GSL EXPO 2026 has two sessions.    
+The in-person session will be held on Wednesday, March 4th, from 1:00 to 3:00 PM in the DSRC 2B Hallway area.   
+The online session will be held from 12:00 to 1:00 PM featuring remote presenters.
 
 ### 3. When is the poster registration deadline?
 February 20, 2026 Friday
@@ -60,5 +62,5 @@ If you are able, please consider bringing a store-bought or homemade snack to sh
 Contact Joaquin.Felix@noaa.gov for poster printing if you plan to make a new poster. Please help manage his time by contacting him at least a few days before the EXPO day. For more information about poster printing, visit [this web page](https://sites.google.com/d/1_T2ZiJZvRHz5xZ7B_-1mBj_FiGl6ZwZ-/p/1XaDmd5sycp3QpdI-MGx-7qyJFrMt8JEz/edit). 
 
 ### 14. Who should I contact if I have any further questions?
-For any further questions, please contact: iHub.gsl at noaa.gov or post them at the [EXPO](https://app.slack.com/client/E07JCDR0CG7/C0874BN97R9) slack channel.
+For any further questions, please contact: iHub.gsl at noaa.gov or post at the [EXPO](https://app.slack.com/client/E07JCDR0CG7/C0874BN97R9) slack channel.
 
