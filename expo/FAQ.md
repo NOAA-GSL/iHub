@@ -2,7 +2,7 @@
 ### 1. What's the "GSL EXPO"?
 The GSL EXPO is an annual lab-wide poster event designed to showcase recent scientific and non-scientific achievements, share innovative ideas, highlight new research and tools, and promote potential collaborations.
 
-### 2. When and where will the GSL EXPO2025 be held?
+### 2. When and where will the GSL EXPO2026 be held?
 GSL EXPO 2026 has two sessions.    
 The in-person session will be held on Wednesday, March 4th, from 1:00 to 3:00 PM in the DSRC 2B Hallway area.   
 The online session will be held from 12:00 to 1:00 PM featuring remote presenters.
