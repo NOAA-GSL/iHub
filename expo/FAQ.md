@@ -54,7 +54,7 @@ You can comment directly on the poster's PDF file inside the shared Goolge Drive
 
 ### 12. Are there any other things we should know?
 ##### (1) Snack station:
-If you are able, please consider bringing a store-bought or homemade snack to share with your GSL colleagues during the GSL EXPO. Snack sign-up at [this link](https://docs.google.com/spreadsheets/d/1rSems1hLkTqC1HFn20SWCqXl5pEaW4I9jjdmwb9pilE/edit?gid=0#gid=0).
+If you are able, please consider bringing a store-bought or homemade snack to share with your GSL colleagues during the GSL EXPO. Snack sign-up at [this link](https://docs.google.com/spreadsheets/d/1J7EDFq8lApI0tnXeFw24Bi944iIacv8x2zJY37BEmxA).
 ##### (2) Poster printing:
 Contact Joaquin.Felix@noaa.gov for poster printing if you plan to make a new poster. Please help manage his time by contacting him at least a few days before the EXPO day. For more information about poster printing, visit [this web page](https://sites.google.com/d/1_T2ZiJZvRHz5xZ7B_-1mBj_FiGl6ZwZ-/p/1XaDmd5sycp3QpdI-MGx-7qyJFrMt8JEz/edit). 
 
