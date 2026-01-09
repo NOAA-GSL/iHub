@@ -5,7 +5,7 @@ The GSL EXPO is an annual lab-wide poster event designed to showcase recent scie
 ### 2. When and where will the GSL EXPO2026 be held?
 GSL EXPO 2026 has two sessions.    
 The in-person session will be held on **Wednesday, March 4th, from 1:00 to 3:00 PM** in the DSRC 2B Hallway area.   
-The online session will be held from 12:00 to 1:00 PM featuring remote presenters.
+The online session will be held from **12:00 to 1:00 PM** featuring remote presenters.
 
 ### 3. How do I register a poster for this event?
 Please register before COB February 20, 2026 Friday at [this link](https://docs.google.com/spreadsheets/d/1T8IRzutZNYGgc0pbCBG6B_yQCf9qKJmv4TKNPFcitRs).
@@ -26,7 +26,7 @@ We will collaborate with the GSL poster print service to ensure your posters are
 Please refer to the figure: [link](https://drive.google.com/file/d/1q8DcAJOyOOlBn7PVtCC_H5qvFglGY_1r/view?usp=drive_link)
 
 ### 7. What will happen to the current posters in the 2B area?
-All current posters in the 2B area have been photographed and archived [here](https://drive.google.com/drive/u/0/folders/1qVIEPjY-OxiXI_oMSAi6fNFjiPTcEeAD) for reference. Some posters will be retired while some will restored after the EXPO. If you have an old poster and would like to retire it, you can support the EXPO preparations by taking it down before the event.    
+All current posters in the 2B area will be photographed and archived [here](https://drive.google.com/drive/u/0/folders/1qVIEPjY-OxiXI_oMSAi6fNFjiPTcEeAD) for reference. Some posters will be retired while some will restored after the EXPO. If you have an old poster and would like to retire it, you can support the EXPO preparations by taking it down before the event.    
 
 ### 8. How do I upload my digital poster?
 You can upload your poster at this shared Google Drive: [EXPO_2026](https://drive.google.com/drive/u/1/folders/1mqrPAOOKneyBMHkB-ADQq_mtVQN9Pra8)
@@ -42,7 +42,7 @@ Yes, all attendees—whether attending in person or remotely—are required to u
 ### 10. I will attend the EXPO remotely. How do I interact with other attendees?
 ##### (1) For remote poster presenters:
 - (a) Upload your digital poster to the shared Google Drive for asynchronous interactions via comments and replies (see details in Question 11).
-- (b) Schedule a personal Google Meet session from 12:00 - 1:00PM, and we will share your meeting link with all attendees through a centralized information hub.
+- (b) Schedule a personal Google Meet session from 12:00 - 1:00PM, and we will share your meeting link with all attendees through a centralized information sheet.
 - (c) Join the conversation at the [EXPO](https://app.slack.com/client/E07JCDR0CG7/C0874BN97R9) slack channel.
 ##### (2) For remote attendees not presenting a poster:
 - (a) Participate in asynchronous discussions by leaving comments and replies on digital posters in the shared Google Drive.
@@ -56,7 +56,9 @@ You can comment directly on the poster's PDF file inside the shared Google Drive
 ##### (1) Snack station:
 If you are able, please consider bringing a store-bought or homemade snack to share with your GSL colleagues during the GSL EXPO. Snack sign-up at [this link](https://docs.google.com/spreadsheets/d/1J7EDFq8lApI0tnXeFw24Bi944iIacv8x2zJY37BEmxA).
 ##### (2) Poster printing:
-Contact Joaquin.Felix@noaa.gov for poster printing if you plan to make a new poster. Please help manage his time by contacting him at least a few days before the EXPO day. For more information about poster printing, visit [this web page](https://sites.google.com/d/1_T2ZiJZvRHz5xZ7B_-1mBj_FiGl6ZwZ-/p/1XaDmd5sycp3QpdI-MGx-7qyJFrMt8JEz/edit). 
+Contact Joaquin.Felix@noaa.gov for poster printing if you plan to make a new poster. Please help manage his time by contacting him at least a few days before the EXPO day. For more information about poster printing, visit [this web page](https://sites.google.com/d/1_T2ZiJZvRHz5xZ7B_-1mBj_FiGl6ZwZ-/p/1XaDmd5sycp3QpdI-MGx-7qyJFrMt8JEz/edit).     
+
+Remote posters are encouraged to print a paper copy as well. iHub will set up your posters along with in-person ones a few days before EXPO for people to preview.
 
 **For any further questions**, please contact iHub.gsl@noaa.gov or post at the [EXPO](https://app.slack.com/client/E07JCDR0CG7/C0874BN97R9) slack channel.
 
