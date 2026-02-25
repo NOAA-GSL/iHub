@@ -1,6 +1,6 @@
 # ![](iHub_logo.jpg)&emsp;&emsp;Innovation Hub&emsp;&emsp;![](iHub_logo.jpg)
 ## Upcoming events:
-## Be on the lookout for lunch-and-learn sessions!
+## 2026/3/4 [GSL EXPO 2026](https://github.com/NOAA-GSL/iHub/blob/main/expo/expo2026.md)
 
 <br>
 
