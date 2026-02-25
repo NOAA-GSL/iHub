@@ -15,7 +15,7 @@ An Introduction to NOAA's Weather Program Office and Applying to a NOAA NOFO &em
 
 ### 3. GSL Expo
 #### 3.1 2025/2/26
-Poster session in the DSRC. &emsp;[FAQ](https://github.com/NOAA-GSL/iHub/blob/main/expo/FAQ.md).
+Poster session in the DSRC. &emsp;[FAQ](https://github.com/NOAA-GSL/iHub/blob/main/expo/old/FAQ2025.md).
 
 ### 4. AI at GSL
 #### 4.1 2025/9/19 Renn Valo and Eric Hackathorn
